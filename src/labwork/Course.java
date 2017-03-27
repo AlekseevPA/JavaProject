@@ -9,6 +9,7 @@ public class Course {
 //Прослушивание лекций
 	
 	public void listenLectures() {
+		 
 		
 	}
 
