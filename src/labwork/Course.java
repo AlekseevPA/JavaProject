@@ -1,6 +1,5 @@
 package labwork;
  
-
 public class Course {
 
 	private char name;
@@ -8,7 +7,6 @@ public class Course {
 	private int countOfStudents;
 	
 
-	
 	public void listenLectures() {
 		 
 		

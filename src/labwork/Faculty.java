@@ -11,8 +11,7 @@ public class Faculty {
 	{
 			}
 
-	
-	public void makeScheduleLessons() { 
+		public void makeScheduleLessons() { 
 		
 		
 	}

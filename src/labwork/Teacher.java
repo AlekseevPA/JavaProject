@@ -24,7 +24,6 @@ public class Teacher {
 		
 	}
 
-	
 	public void makeExams() {
 		
 	}
