@@ -1,4 +1,5 @@
 package labwork;
+  
 
 public class University {
 
@@ -6,20 +7,17 @@ public class University {
 	private char type;
 	private int countOfTeachers;
 	
-//Выдача диплома
 	
 	public void giveDiplom()
 	{
 		
 	}
 	
-//Зачисление студента
 	
 	public void addStudent()
 	{
 		
 	}
-//Отчисление студента
 	
 	public void dismissStudet()
 	{

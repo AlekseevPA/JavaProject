@@ -1,4 +1,5 @@
 package labwork;
+ 
 
 public class Course {
 
@@ -6,7 +7,7 @@ public class Course {
 	private char type;
 	private int countOfStudents;
 	
-//Прослушивание лекций
+
 	
 	public void listenLectures() {
 		 
