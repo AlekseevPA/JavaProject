@@ -5,9 +5,7 @@ public class Faculty {
 	private char type;
 	private int countOfCourses;
 
-	
-
-	
+		
 	public void checkStudentProgress()
 	{
 			}

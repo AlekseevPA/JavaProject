@@ -5,7 +5,6 @@ public class Student {
 	
 	private char name;
 	
-		
 		public void askQuestions() {
 			
 		}

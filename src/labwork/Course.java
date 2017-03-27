@@ -1,6 +1,5 @@
 package labwork;
  
-
 public class Course {
 
 	private char name;
