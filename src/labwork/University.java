@@ -2,7 +2,9 @@ package labwork;
   
 
 public class University {
-
+  
+	
+	
 	private char name;
 	private char type;
 	private int countOfTeachers;
