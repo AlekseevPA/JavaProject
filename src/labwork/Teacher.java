@@ -1,6 +1,5 @@
 package labwork;
  
-
 public class Teacher {
 	private char name;
 	private char specialization;

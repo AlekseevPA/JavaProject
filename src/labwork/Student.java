@@ -1,7 +1,6 @@
 package labwork;
 
 
-
 public class Student {
 	
 	private char name;
